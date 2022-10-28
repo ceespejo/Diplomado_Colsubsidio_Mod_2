@@ -1,0 +1,2 @@
+#!/bin/bash
+mv .Diplomado_Colsubsidio/betty ./temp/myfirstdirectory
